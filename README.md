@@ -1,4 +1,4 @@
-### Review Based Product Recommender System
+### Review-Based Recommender System for Personalized Product Recommendations
 
 The objective of this project is to develop a recommender system using natural language processing techniques. The dissatisfaction factors associated with various types of products are identified through an analysis of customer reviews. This analysis involves the utilization of n-gram and word distribution techniques across the entire review dataset. The classification of customers who are likely to recommend or not recommend a product is accomplished via the application of machine learning algorithms.
 
